@@ -1,0 +1,15 @@
+@media (max-width:990px){
+    .Plans-list{
+        flex-direction: column;
+    }
+}
+.Plans-list{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: aqua;
+    width: 100%;
+    height: 100%;
+}
